@@ -1,0 +1,10 @@
+D:\dev\Mostech.StyleFile.Entity\Mostech.StyleFile.Entity\bin\Release\Mostech.StyleFile.Entity.dll
+D:\dev\Mostech.StyleFile.Entity\Mostech.StyleFile.Entity\bin\Release\Mostech.StyleFile.Entity.pdb
+D:\dev\Mostech.StyleFile.Entity\Mostech.StyleFile.Entity\bin\Release\Mostech.StyleFile.Entity.xml
+D:\dev\Mostech.StyleFile.Entity\Mostech.StyleFile.Entity\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Mostech.StyleFile.Entity\Mostech.StyleFile.Entity\obj\Release\Mostech.StyleFile.Entity.Resources.resources
+D:\dev\Mostech.StyleFile.Entity\Mostech.StyleFile.Entity\obj\Release\GenerateResource.read.1.tlog
+D:\dev\Mostech.StyleFile.Entity\Mostech.StyleFile.Entity\obj\Release\GenerateResource.write.1.tlog
+D:\dev\Mostech.StyleFile.Entity\Mostech.StyleFile.Entity\obj\Release\Mostech.StyleFile.Entity.dll
+D:\dev\Mostech.StyleFile.Entity\Mostech.StyleFile.Entity\obj\Release\Mostech.StyleFile.Entity.xml
+D:\dev\Mostech.StyleFile.Entity\Mostech.StyleFile.Entity\obj\Release\Mostech.StyleFile.Entity.pdb

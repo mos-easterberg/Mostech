@@ -1,0 +1,10 @@
+D:\dev\Mostech.Common.Entity\bin\Release\Mostech.Common.Entity.dll
+D:\dev\Mostech.Common.Entity\bin\Release\Mostech.Common.Entity.pdb
+D:\dev\Mostech.Common.Entity\bin\Release\Mostech.Common.Entity.xml
+D:\dev\Mostech.Common.Entity\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Mostech.Common.Entity\obj\Release\Mostech.Common.Entity.Resources.resources
+D:\dev\Mostech.Common.Entity\obj\Release\GenerateResource.read.1.tlog
+D:\dev\Mostech.Common.Entity\obj\Release\GenerateResource.write.1.tlog
+D:\dev\Mostech.Common.Entity\obj\Release\Mostech.Common.Entity.dll
+D:\dev\Mostech.Common.Entity\obj\Release\Mostech.Common.Entity.xml
+D:\dev\Mostech.Common.Entity\obj\Release\Mostech.Common.Entity.pdb

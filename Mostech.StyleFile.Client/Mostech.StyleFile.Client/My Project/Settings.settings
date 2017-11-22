@@ -1,0 +1,129 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ebbb</Value>
+    </Setting>
+    <Setting Name="LicenseCompany" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DemoCompany</Value>
+    </Setting>
+    <Setting Name="LicenseStartDate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2012-01-23</Value>
+    </Setting>
+    <Setting Name="LicenseEndDate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">g6414515353</Value>
+    </Setting>
+    <Setting Name="LicenseUsers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">k:</Value>
+    </Setting>
+    <Setting Name="DBServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="DBPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="DBName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">stylefile_dev</Value>
+    </Setting>
+    <Setting Name="DBUserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="DBPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">iwttyxvq</Value>
+    </Setting>
+    <Setting Name="DBTimeOutSeconds" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="DBVendor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MySQL</Value>
+    </Setting>
+    <Setting Name="HelpFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Mostech\StyleFile\help\StyleFile-v1.03_Users_Guide-swe.pdf</Value>
+    </Setting>
+    <Setting Name="ConfirmAppExit" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RequiredFieldsColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-32768</Value>
+    </Setting>
+    <Setting Name="DisplayActiveOnly" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LogFolderPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Mostech\StyleFile\log\</Value>
+    </Setting>
+    <Setting Name="LogThrowException" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ApplicationName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">StyleFile v1.1</Value>
+    </Setting>
+    <Setting Name="LogFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">StyleFile-log.txt</Value>
+    </Setting>
+    <Setting Name="BackupScriptPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Mostech\StyleFile\db\dump-stylefile_db.cmd</Value>
+    </Setting>
+    <Setting Name="JobImagesRepositoryPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Mostech\StyleFile\images\jobs\repository\</Value>
+    </Setting>
+    <Setting Name="JobImagesSourcePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Mostech\StyleFile\images\jobs\source\</Value>
+    </Setting>
+    <Setting Name="ReportResultFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Mostech\StyleFile\reports\result\</Value>
+    </Setting>
+    <Setting Name="MostechWebSiteURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.mostech.fi/</Value>
+    </Setting>
+    <Setting Name="MostechOnFacebookURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ShowToolTips" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BackupFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Mostech\StyleFile\db\dumps\</Value>
+    </Setting>
+    <Setting Name="FormBackColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-32768</Value>
+    </Setting>
+    <Setting Name="ButtonColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-32768</Value>
+    </Setting>
+    <Setting Name="LogEmptyOnStartup" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TelephoneInitialText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+358</Value>
+    </Setting>
+    <Setting Name="JobPrintFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Mostech\StyleFile\printing\jobs\</Value>
+    </Setting>
+    <Setting Name="FileEncoding" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">UNICODE</Value>
+    </Setting>
+    <Setting Name="EmailReceiverAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">info@mostech.fi</Value>
+    </Setting>
+    <Setting Name="EmailServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.netikka.fi</Value>
+    </Setting>
+    <Setting Name="EmailServerPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="EmailEnableSSL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EmailFromAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">info@mostech.fi</Value>
+    </Setting>
+    <Setting Name="EmailSendTimeoutSeconds" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="NrOfJobsPerPrint" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

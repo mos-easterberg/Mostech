@@ -1,0 +1,15 @@
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\bin\Debug\ToolboxTester.exe
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\bin\Debug\ToolboxTester.pdb
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\bin\Debug\ToolboxTester.xml
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\bin\Debug\CE.ASD.Common.Toolbox.dll
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\bin\Debug\CE.ASD.Common.Toolbox.pdb
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\bin\Debug\CE.ASD.Common.Toolbox.xml
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\obj\x86\Debug\ToolboxTester.frmMain.resources
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\obj\x86\Debug\ToolboxTester.Resources.resources
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\obj\x86\Debug\ToolboxTester.exe
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\obj\x86\Debug\ToolboxTester.xml
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\obj\x86\Debug\ToolboxTester.pdb
+C:\Users\magnoste\dev\ASD\CE.ASD.Common.Toolbox\ToolboxTester\bin\Debug\ToolboxTester.exe.config

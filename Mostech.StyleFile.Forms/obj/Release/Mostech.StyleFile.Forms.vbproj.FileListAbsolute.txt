@@ -1,0 +1,12 @@
+D:\dev\Mostech.StyleFile.Forms\bin\Release\Mostech.StyleFile.Forms.dll
+D:\dev\Mostech.StyleFile.Forms\bin\Release\Mostech.StyleFile.Forms.pdb
+D:\dev\Mostech.StyleFile.Forms\bin\Release\Mostech.StyleFile.Forms.xml
+D:\dev\Mostech.StyleFile.Forms\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Mostech.StyleFile.Forms\obj\Release\Mostech.StyleFile.Forms.Resources.resources
+D:\dev\Mostech.StyleFile.Forms\obj\Release\Mostech.StyleFile.Forms.frmFormBase.resources
+D:\dev\Mostech.StyleFile.Forms\obj\Release\GenerateResource.read.1.tlog
+D:\dev\Mostech.StyleFile.Forms\obj\Release\GenerateResource.write.1.tlog
+D:\dev\Mostech.StyleFile.Forms\obj\Release\Mostech.StyleFile.Forms.dll
+D:\dev\Mostech.StyleFile.Forms\obj\Release\Mostech.StyleFile.Forms.xml
+D:\dev\Mostech.StyleFile.Forms\obj\Release\Mostech.StyleFile.Forms.pdb
+D:\dev\Mostech.StyleFile.Forms\obj\Release\Mostech.StyleFile.Forms.frmViewBase.resources
